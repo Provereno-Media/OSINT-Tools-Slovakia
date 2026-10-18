@@ -2,7 +2,7 @@
 <img src="https://flagcdn.com/w320/sk.png" alt="Slovakia_FLAG"/>
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to Slovakia. Most of the resources and tools has versions in Slovak, English. A new Commercial Register Act (No. 29/2026 Z. z.) has applied since 17 August 2026. Under it, stored company documents (zbierka dokumentov) are open to anyone free of charge, while beneficial-owner data is not published in the Commercial Register itself (§ 100(2)). The Office for Personal Data Protection opened proceedings against the Ministry of Justice on 19 August 2026 over birth numbers and signatures visible in those documents, so access rules may change. Beneficial owners of entities receiving public money are still published in the Register of Public Sector Partners (RPVS): as of 2026-10-12, UBO verification documents open without login. Many official Slovak portals (ORSR, ŽRSR, ÚGKK cadastre apps, ÚVO, courts) block automated access, so the links were validated through independent sources and should be checked by hand.
 
-**Last Updated:** 2026-10-12
+![Last updated](https://img.shields.io/github/last-commit/Provereno-Media/OSINT-Tools-Slovakia?label=Last%20updated)
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0)
